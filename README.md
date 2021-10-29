@@ -1,5 +1,8 @@
 # vue-router
 
+## Live Version
+https://enyata-vue-router.netlify.app/
+
 ## Project setup
 ```
 npm install
